@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s01uaas",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~09h",
+  "name": "Leads-Tracker-Chrome-Extension",
+  "description": "A simple chrome extension for tracking leads",
   "scripts": {
     "start": "vite",
     "dev": "vite",
