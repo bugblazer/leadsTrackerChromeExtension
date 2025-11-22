@@ -1,19 +1,6 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Almost every business needs to find leads to sell their product, and keeping track of those leads can be a hectic task.
+This extension lets you:
+ • Save the current tab’s URL with one click
+ • Type and save URLs manually (without opening the tab)
+ • Delete the entire list when needed
+https://github.com/user-attachments/assets/7b1e3bef-a159-4643-8a27-6de635a28355
